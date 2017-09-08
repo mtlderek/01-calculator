@@ -15,6 +15,7 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 
 public class MainActivity extends AppCompatActivity {
+    // TODO: 9/8/2017 See if branch switching worked correctly 
     EditText etNum1, etNum2;
     TextView result;
     double num1, num2;
